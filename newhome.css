@@ -1,0 +1,54 @@
+/*-----header------*/
+
+header{
+	height:450px;
+	background:grey;
+}
+
+.logo{
+	height:70px;
+	width:70px;
+	margin:10px 0 0 30px;
+	float:left;
+}
+
+.header_nav{
+	float:right;
+	padding-top:25px;
+}
+
+.header_a{
+	display:inline-block;
+	margin-left:20px;
+	color:rgba(0,0,0,0.7);
+	font-size:14px;
+	font-weight:400;
+	text-transform:uppercase;
+}
+
+.header_h1{
+	text-align: center;
+	font-size:72px;
+	font-weight:700;
+	color:white;
+	text-transform:uppercase;
+	letter-spacing:0.05em;
+	margin-bottom:10px;
+	clear:both;
+	padding-top:100px;
+}
+
+.header_span{
+	display: inline-block;
+	padding: 0.2em 0.2em;
+	border: white solid 5px;
+}
+
+.kicker{
+	text-align:center;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:0.5em;
+	color:white;
+	line-height:1px;
+}
